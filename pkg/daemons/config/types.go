@@ -79,6 +79,7 @@ type Agent struct {
 	DisableCCM              bool
 	DisableNPC              bool
 	Rootless                bool
+	ServerIsPublic          bool
 }
 
 type Control struct {
